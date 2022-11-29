@@ -9,7 +9,7 @@ const config = {
   tagline: "A Powerful Guilded API wrapper made entirely in Typescript.",
   url: "https://mrgil.js.org",
   baseUrl: "/",
-  onBrokenLinks: "throw",
+  onBrokenLinks: "ignore",
   onBrokenMarkdownLinks: "warn",
   favicon:
     "https://avatars.githubusercontent.com/u/116489754?s=400&u=1101ad39497589fa9e440653b48e2804b3d0adcd&v=4",
