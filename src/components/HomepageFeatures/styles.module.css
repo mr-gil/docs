@@ -1,0 +1,15 @@
+
+.features {
+  font-family: 'Lexend Deca';
+  font-weight: 500;
+  display: flex;
+  align-items: center;
+  padding: 2rem 0;
+  width: 100%;
+}
+.abtme {
+  margin-top: 50px;
+}
+.warning {
+  color: #ED4245;
+}
